@@ -195,7 +195,7 @@ return  `*- OTHER MENU*
 • ${prefix}owner
 • ${prefix}donasi
 • ${prefix}groupowner
-• ${prefix}script
+• ${prefix}payment
 • ${prefix}listprem
 • ${prefix}listban
 • ${prefix}listsewa
